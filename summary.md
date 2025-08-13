@@ -2,7 +2,7 @@
 
 ## 1. Basic Concept and Thesis
 **Core Idea:**  
-A virtual terrarium “Tamagotchi-like” game for a casual, primarily female audience.  
+A virtual terrarium “Tamagotchi-like” game for a casual, primarily female audience. Product pillars: 
 
 - **Simple pick-up-and-play**: Almost no onboarding required.  
 - **Short session times**: Designed for quick play without monopolizing the TV.  
